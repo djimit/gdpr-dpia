@@ -1,0 +1,8 @@
+{
+  "name": "gdpr-dpia",
+  "description": "AVG/GDPR Data Protection Impact Assessment helper. Genereert DPIA-templates, checkt verwerkingsgrondslagen, valideert bewaartermijnen, reviewt verwerkersovereenkomsten, en helpt bij het opstellen van een verwerkingsregister. Specifiek voor Nederlandse overheidsorganisaties.",
+  "version": "0.1.0",
+  "author": { "name": "Dennis Landman", "email": "dennis@djimit.nl" },
+  "license": "MIT",
+  "keywords": ["GDPR", "AVG", "DPIA", "gegevensbescherming", "privacy", "verwerkersovereenkomst", "verwerkingsregister", "DPO", "FG", "AP", "gegevensbeschermingseffectbeoordeling", "GEB", "privacy-by-design", "overheid"]
+}
